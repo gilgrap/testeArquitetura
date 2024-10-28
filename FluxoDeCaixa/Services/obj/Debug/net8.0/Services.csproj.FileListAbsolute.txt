@@ -1,0 +1,17 @@
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\bin\Debug\net8.0\Services.deps.json
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\bin\Debug\net8.0\Services.dll
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\bin\Debug\net8.0\Services.pdb
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\Services.dll
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\Services.pdb
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\bin\Debug\net8.0\Data.dll
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\bin\Debug\net8.0\Models.dll
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\bin\Debug\net8.0\Data.pdb
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\bin\Debug\net8.0\Models.pdb
+C:\Gil\Teste Arquitetura\FluxoDeCaixa\Services\obj\Debug\net8.0\Services.csproj.Up2Date

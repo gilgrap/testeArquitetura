@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Gil\\Teste Arquitetura\\FluxoDeCaixa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF71ED0-1483-4558-9CE5-EAA1DB2BD51E}|api\\api.csproj|c:\\gil\\teste arquitetura\\fluxodecaixa\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AF71ED0-1483-4558-9CE5-EAA1DB2BD51E}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA09F03A-D62C-4121-A22E-D65C40482764}|Tests\\Tests.csproj|c:\\gil\\teste arquitetura\\fluxodecaixa\\tests\\saldodiarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA09F03A-D62C-4121-A22E-D65C40482764}|Tests\\Tests.csproj|solutionrelative:tests\\saldodiarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA09F03A-D62C-4121-A22E-D65C40482764}|Tests\\Tests.csproj|c:\\gil\\teste arquitetura\\fluxodecaixa\\tests\\lancamentoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA09F03A-D62C-4121-A22E-D65C40482764}|Tests\\Tests.csproj|solutionrelative:tests\\lancamentoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Gil\\Teste Arquitetura\\FluxoDeCaixa\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Gil\\Teste Arquitetura\\FluxoDeCaixa\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T03:41:27.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaldoDiarioServiceTests.cs",
+              "DocumentMoniker": "C:\\Gil\\Teste Arquitetura\\FluxoDeCaixa\\Tests\\SaldoDiarioServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\SaldoDiarioServiceTests.cs",
+              "ToolTip": "C:\\Gil\\Teste Arquitetura\\FluxoDeCaixa\\Tests\\SaldoDiarioServiceTests.cs",
+              "RelativeToolTip": "Tests\\SaldoDiarioServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:29:04.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LancamentoServiceTests.cs",
+              "DocumentMoniker": "C:\\Gil\\Teste Arquitetura\\FluxoDeCaixa\\Tests\\LancamentoServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\LancamentoServiceTests.cs",
+              "ToolTip": "C:\\Gil\\Teste Arquitetura\\FluxoDeCaixa\\Tests\\LancamentoServiceTests.cs",
+              "RelativeToolTip": "Tests\\LancamentoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:07:55.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
